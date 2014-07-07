@@ -26,8 +26,21 @@
       <file leaf-file-name="main.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="16" selection-start="1168" selection-end="1168" vertical-scroll-proportion="0.68" vertical-offset="0" max-vertical-offset="945">
-              <folding />
+            <state line="46" column="12" selection-start="1528" selection-end="1528" vertical-scroll-proportion="0.92" vertical-offset="0" max-vertical-offset="1050">
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="22" selection-start="157" selection-end="157" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="300">
+              <folding>
+                <element signature="n#style#0;n#textarea#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -35,7 +48,7 @@
       <file leaf-file-name="app.yaml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="17" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="270">
+            <state line="15" column="7" selection-start="212" selection-end="212" vertical-scroll-proportion="-9.0" vertical-offset="0" max-vertical-offset="330">
               <folding />
             </state>
           </provider>
@@ -52,6 +65,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/app.yaml" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
@@ -106,6 +120,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rot13" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rot13" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -114,6 +142,11 @@
   <component name="PropertiesComponent">
     <property name="FullScreen" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../helloworld" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="tests" factoryName="py.test">
@@ -291,7 +324,9 @@
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="18" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="270">
-          <folding />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -302,17 +337,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="22" selection-start="157" selection-end="157" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="300">
+          <folding>
+            <element signature="n#style#0;n#textarea#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="17" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="270">
+        <state line="15" column="7" selection-start="212" selection-end="212" vertical-scroll-proportion="-9.0" vertical-offset="0" max-vertical-offset="330">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="16" selection-start="1168" selection-end="1168" vertical-scroll-proportion="0.68" vertical-offset="0" max-vertical-offset="945">
-          <folding />
+        <state line="46" column="12" selection-start="1528" selection-end="1528" vertical-scroll-proportion="0.92" vertical-offset="0" max-vertical-offset="1050">
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
