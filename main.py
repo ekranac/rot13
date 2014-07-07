@@ -3,7 +3,6 @@ import os
 from google.appengine.ext.webapp import template
 
 
-
 class BaseHandler(webapp2.RequestHandler):
     def render_template(self, view_filename, params=None):
 		if not params:
@@ -16,7 +15,7 @@ class BaseHandler(webapp2.RequestHandler):
 
 class MainPage(BaseHandler):
     def get_value(self):
-        value=  self.request.get("text")
+        value =  self.request.get("text")
         value = list(value)
 
         return value
@@ -43,8 +42,9 @@ class MainPage(BaseHandler):
                     indeks = indeks + 13
                 converted_value = converted_value + cAlphabet[indeks]
 
+            if element.isalpha() == False:
+                converted_value = converted_value + element
 
-            
         return converted_value
 
 
